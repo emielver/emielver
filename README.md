@@ -56,7 +56,7 @@ I'm an Analytics Engineer based in London <img src="https://media.giphy.com/medi
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=emielver&show_icons=true&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-beige-beta-69.vercel.app/api?username=emielver&show_icons=true&theme=dracula)
 
 
   </div>
