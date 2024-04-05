@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="100"/>
   
   
   <div id="badges">
@@ -28,7 +27,7 @@ I'm an Analytics Engineer based in London <img src="https://media.giphy.com/medi
 
 - 🔷 Exploring Golang and the realm of Backend programming
 
-- 🏃‍♂️ In my free time, I like to run <a href="https://www.strava.com/athletes/97392203"> <img src="https://camo.githubusercontent.com/e67070990d3dff26008e9b2a03f5cc81235264600f4d3ac95cb45c42e11ffcec/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d53747261766126636f6c6f723d464334433032266c6f676f3d537472617661266c6f676f436f6c6f723d464646464646266c6162656c3d" /> </a>
+- 🏃‍♂️ In my free time, I like to run <a href="https://www.strava.com/athletes/97392203"> <img src="https://img.shields.io/badge/strava-%23FC4C02.svg?&style=for-the-badge&logo=strava&logoColor=white" /> </a>
 
 - 📫 Reach out! <a href="https://www.linkedin.com/in/emiel-verkade/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
