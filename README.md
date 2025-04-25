@@ -21,11 +21,9 @@
   
 ---
 ### 🧑‍💻 About Me:
-I'm an Analytics Engineer based in London <img src="https://media.giphy.com/media/yqSmg1HER3tsUAzRiS/giphy.gif" height="20" />
+I'm a Customer Success Engineer based in London <img src="https://media.giphy.com/media/yqSmg1HER3tsUAzRiS/giphy.gif" height="20" />
 
-  - 🚀 I’m working as an Analytics Engineer, contributing to open-source dbt packages and internal data work
-
-- 🔷 Exploring Golang and the realm of Backend programming
+- I mostly work on data pipelines, debugging SQL and writing a bit of Javascript
 
 - 🏃‍♂️ In my free time, I like to run <a href="https://www.strava.com/athletes/97392203"> <img src="https://img.shields.io/badge/strava-%23FC4C02.svg?&style=for-the-badge&logo=strava&logoColor=white" /> </a>
 
@@ -39,8 +37,8 @@ I'm an Analytics Engineer based in London <img src="https://media.giphy.com/medi
 ### 🛠️ Languages and Tools:
   
  <div id="tools">
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" title="dbt" alt="dbt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" title="BigQuery" alt="BigQuery" width="40" height="40"/>&nbsp;
   <img src="https://s3.us-east-1.amazonaws.com/accredible_temp_credential_images/16002836894132567677717491881160.png" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
@@ -61,19 +59,6 @@ I'm an Analytics Engineer based in London <img src="https://media.giphy.com/medi
 
   </div>
 
-<div id="latest projects">
-  
- ---
- ### 🏗️ Current repos 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snowplow&repo=dbt-snowplow-web)](https://github.com/snowplow/dbt-snowplow-web)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snowplow&repo=dbt-snowplow-mobile)](https://github.com/snowplow/dbt-snowplow-mobile)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snowplow&repo=dbt-snowplow-utils)](https://github.com/snowplow/dbt-snowplow-utils)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=snowplow&repo=dbt-snowplow-ecommerce)](https://github.com/snowplow/dbt-snowplow-ecommerce)
-
-  
-  
-  </div>
-  
 </div>
 <!--
 **emielver/emielver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
